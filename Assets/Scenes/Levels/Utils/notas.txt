@@ -1,0 +1,1 @@
+En esta carpeta estaran las utilidades del juego; como por ejemplo la tienda o los mapas de los niveles ingame

@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 2724b571c86edfe4f85a7713429c7e25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3029891556697191719
+    second: Prisioner-attacking-1.png (1)_0
+  - first:
+      213: -5207644324912189440
+    second: Prisioner-attacking-1.png (1)_1
+  - first:
+      213: 5771491128227190618
+    second: Prisioner-attacking-1.png (1)_2
+  - first:
+      213: 2828859119682111861
+    second: Prisioner-attacking-1.png (1)_3
+  - first:
+      213: 4039326206891570240
+    second: Prisioner-attacking-1.png (1)_4
+  - first:
+      213: 555651853761567887
+    second: Prisioner-attacking-1.png (1)_5
+  - first:
+      213: 8522885518858216872
+    second: Prisioner-attacking-1.png (1)_6
+  - first:
+      213: -732660483158930042
+    second: Prisioner-attacking-1.png (1)_7
+  - first:
+      213: 1670498520656157940
+    second: Prisioner-attacking-1.png (1)_8
+  - first:
+      213: 1061292742184418689
+    second: Prisioner-attacking-1.png (1)_9
+  - first:
+      213: 272648064120637960
+    second: Prisioner-attacking-1.png (1)_10
+  - first:
+      213: 162064308951416228
+    second: Prisioner-attacking-1.png (1)_11
+  - first:
+      213: 7837773705114731834
+    second: Prisioner-attacking-1.png (1)_12
+  - first:
+      213: 6871674634132209370
+    second: Prisioner-attacking-1.png (1)_13
+  - first:
+      213: 7043905438192453794
+    second: Prisioner-attacking-1.png (1)_14
+  - first:
+      213: 7665270093501029549
+    second: Prisioner-attacking-1.png (1)_15
+  - first:
+      213: -4436710586349116118
+    second: Prisioner-attacking-1.png (1)_16
+  - first:
+      213: -8727979065196910233
+    second: Prisioner-attacking-1.png (1)_17
+  - first:
+      213: 4647004741948361808
+    second: Prisioner-attacking-1.png (1)_18
+  - first:
+      213: 9057088634022320750
+    second: Prisioner-attacking-1.png (1)_19
+  - first:
+      213: -3511828448484738552
+    second: Prisioner-attacking-1.png (1)_20
+  - first:
+      213: 8324850624543779567
+    second: Prisioner-attacking-1.png (1)_21
+  - first:
+      213: -7486931544659119837
+    second: Prisioner-attacking-1.png (1)_22
+  - first:
+      213: 4643043291691968377
+    second: Prisioner-attacking-1.png (1)_23
+  - first:
+      213: 5691439446705533781
+    second: Prisioner-attacking-1.png (1)_24
+  - first:
+      213: -6505262084185130798
+    second: Prisioner-attacking-1.png (1)_25
+  - first:
+      213: 4909941717106219219
+    second: Prisioner-attacking-1.png (1)_26
+  - first:
+      213: 843721136697116846
+    second: Prisioner-attacking-1.png (1)_27
+  - first:
+      213: -8656127400192828100
+    second: Prisioner-attacking-1.png (1)_28
+  - first:
+      213: -3433748532453508006
+    second: Prisioner-attacking-1.png (1)_29
+  - first:
+      213: 137276601554214654
+    second: Prisioner-attacking-1.png (1)_30
+  - first:
+      213: 3004869087945251293
+    second: Prisioner-attacking-1.png (1)_31
+  - first:
+      213: 3156837192126160055
+    second: Prisioner-attacking-1.png (1)_32
+  - first:
+      213: -7927612230149233026
+    second: Prisioner-attacking-1.png (1)_33
+  - first:
+      213: -2058024290739286508
+    second: Prisioner-attacking-1.png (1)_34
+  - first:
+      213: 6414253075420438917
+    second: Prisioner-attacking-1.png (1)_35
+  - first:
+      213: 4434338445866212374
+    second: Prisioner-attacking-1.png (1)_36
+  - first:
+      213: 7675721794237085311
+    second: Prisioner-attacking-1.png (1)_37
+  - first:
+      213: 2001397835994875256
+    second: Prisioner-attacking-1.png (1)_38
+  - first:
+      213: -5531386642973632960
+    second: Prisioner-attacking-1.png (1)_39
+  - first:
+      213: 6323155956717676393
+    second: Prisioner-attacking-1.png (1)_40
+  - first:
+      213: 5951479924473869131
+    second: Prisioner-attacking-1.png (1)_41
+  - first:
+      213: 6662787145458432029
+    second: Prisioner-attacking-1.png (1)_42
+  - first:
+      213: 3060389955942297622
+    second: Prisioner-attacking-1.png (1)_43
+  - first:
+      213: 66594749078812773
+    second: Prisioner-attacking-1.png (1)_44
+  - first:
+      213: 5092089528609331511
+    second: Prisioner-attacking-1.png (1)_45
+  - first:
+      213: -5363616625023637490
+    second: Prisioner-attacking-1.png (1)_46
+  - first:
+      213: -5939036231137026343
+    second: Prisioner-attacking-1.png (1)_47
+  - first:
+      213: -4325324932347813505
+    second: Prisioner-attacking-1.png (1)_48
+  - first:
+      213: -8741974713762349037
+    second: Prisioner-attacking-1.png (1)_49
+  - first:
+      213: -5280911905844436210
+    second: Prisioner-attacking-1.png (1)_50
+  - first:
+      213: 5803841933849316504
+    second: Prisioner-attacking-1.png (1)_51
+  - first:
+      213: 5360590449804917915
+    second: Prisioner-attacking-1.png (1)_52
+  - first:
+      213: 2819663201442832721
+    second: Prisioner-attacking-1.png (1)_53
+  - first:
+      213: -5808785411324998840
+    second: Prisioner-attacking-1.png (1)_54
+  - first:
+      213: -5124753279988678002
+    second: Prisioner-attacking-1.png (1)_55
+  - first:
+      213: 7269069740696998405
+    second: Prisioner-attacking-1.png (1)_56
+  - first:
+      213: -784889168742460195
+    second: Prisioner-attacking-1.png (1)_57
+  - first:
+      213: -4336515133625626940
+    second: Prisioner-attacking-1.png (1)_58
+  - first:
+      213: 3311908809616000194
+    second: Prisioner-attacking-1.png (1)_59
+  - first:
+      213: 2419432337974704801
+    second: Prisioner-attacking-1.png (1)_60
+  - first:
+      213: 531931127611345756
+    second: Prisioner-attacking-1.png (1)_61
+  - first:
+      213: 3836353728393164683
+    second: Prisioner-attacking-1.png (1)_62
+  - first:
+      213: 3075993524916952483
+    second: Prisioner-attacking-1.png (1)_63
+  - first:
+      213: 411937403020309287
+    second: Prisioner-attacking-1.png (1)_64
+  - first:
+      213: -2186874503501019983
+    second: Prisioner-attacking-1.png (1)_65
+  - first:
+      213: -6704489746675703542
+    second: Prisioner-attacking-1.png (1)_66
+  - first:
+      213: 9117158236544269099
+    second: Prisioner-attacking-1.png (1)_67
+  - first:
+      213: -1056254285599959533
+    second: Prisioner-attacking-1.png (1)_68
+  - first:
+      213: -6101013405608564399
+    second: Prisioner-attacking-1.png (1)_69
+  - first:
+      213: 4516238385602534440
+    second: Prisioner-attacking-1.png (1)_70
+  - first:
+      213: 4548385372022218695
+    second: Prisioner-attacking-1.png (1)_71
+  - first:
+      213: -1974560907433435133
+    second: Prisioner-attacking-1.png (1)_72
+  - first:
+      213: 7298026597980619299
+    second: Prisioner-attacking-1.png (1)_73
+  - first:
+      213: 4323988500427502046
+    second: Prisioner-attacking-1.png (1)_74
+  - first:
+      213: -7630061745785987698
+    second: Prisioner-attacking-1.png (1)_75
+  - first:
+      213: 1753839464599673504
+    second: Prisioner-attacking-1.png (1)_76
+  - first:
+      213: 2587393219761292791
+    second: Prisioner-attacking-1.png (1)_77
+  - first:
+      213: -6762180659997352867
+    second: Prisioner-attacking-1.png (1)_78
+  - first:
+      213: -4179023970401801018
+    second: Prisioner-attacking-1.png (1)_79
+  - first:
+      213: 5796399376369173274
+    second: Prisioner-attacking-1.png (1)_80
+  - first:
+      213: 3541737556332239036
+    second: Prisioner-attacking-1.png (1)_81
+  - first:
+      213: -3350159359101911626
+    second: Prisioner-attacking-1.png (1)_82
+  - first:
+      213: 5030636754522729822
+    second: Prisioner-attacking-1.png (1)_83
+  - first:
+      213: -6818606112273735840
+    second: Prisioner-attacking-1.png (1)_84
+  - first:
+      213: 8709639171989358145
+    second: Prisioner-attacking-1.png (1)_85
+  - first:
+      213: 8204623596830799461
+    second: Prisioner-attacking-1.png (1)_86
+  - first:
+      213: -8098220841568909784
+    second: Prisioner-attacking-1.png (1)_87
+  - first:
+      213: 2432063195988313969
+    second: Prisioner-attacking-1.png (1)_88
+  - first:
+      213: -4444511479966912105
+    second: Prisioner-attacking-1.png (1)_89
+  - first:
+      213: 6753943840844122231
+    second: Prisioner-attacking-1.png (1)_90
+  - first:
+      213: 619473290292825272
+    second: Prisioner-attacking-1.png (1)_91
+  - first:
+      213: -2472622931197509001
+    second: Prisioner-attacking-1.png (1)_92
+  - first:
+      213: -7759630509068494294
+    second: Prisioner-attacking-1.png (1)_93
+  - first:
+      213: -2171769991084791262
+    second: Prisioner-attacking-1.png (1)_94
+  - first:
+      213: 4851272357527443260
+    second: Prisioner-attacking-1.png (1)_95
+  - first:
+      213: -7480048579826765517
+    second: Prisioner-attacking-1.png (1)_96
+  - first:
+      213: -4697071433121506504
+    second: Prisioner-attacking-1.png (1)_97
+  - first:
+      213: -7314497880087401014
+    second: Prisioner-attacking-1.png (1)_98
+  - first:
+      213: 9121066232515250196
+    second: Prisioner-attacking-1.png (1)_99
+  - first:
+      213: -4841766528473926764
+    second: Prisioner-attacking-1.png (1)_100
+  - first:
+      213: -5796541112836706006
+    second: Prisioner-attacking-1.png (1)_101
+  - first:
+      213: -2330852873162155966
+    second: Prisioner-attacking-1.png (1)_102
+  - first:
+      213: 4210745940424514000
+    second: Prisioner-attacking-1.png (1)_103
+  - first:
+      213: 2009731760171473263
+    second: Prisioner-attacking-1.png (1)_104
+  - first:
+      213: 8887420300155778769
+    second: Prisioner-attacking-1.png (1)_105
+  - first:
+      213: -1837437282508023345
+    second: Prisioner-attacking-1.png (1)_106
+  - first:
+      213: 5267249902047899853
+    second: Prisioner-attacking-1.png (1)_107
+  - first:
+      213: -8316571483746803316
+    second: Prisioner-attacking-1.png (1)_108
+  - first:
+      213: 6463354732000824237
+    second: Prisioner-attacking-1.png (1)_109
+  - first:
+      213: 7302652849182355954
+    second: Prisioner-attacking-1.png (1)_110
+  - first:
+      213: -3191825397048403532
+    second: Prisioner-attacking-1.png (1)_111
+  - first:
+      213: 7301091497616240161
+    second: Prisioner-attacking-1.png (1)_112
+  - first:
+      213: -6770392120911193363
+    second: Prisioner-attacking-1.png (1)_113
+  - first:
+      213: -477689977687156236
+    second: Prisioner-attacking-1.png (1)_114
+  - first:
+      213: -1649891662933901775
+    second: Prisioner-attacking-1.png (1)_115
+  - first:
+      213: -4327462845677527522
+    second: Prisioner-attacking-1.png (1)_116
+  - first:
+      213: -2484627887533532069
+    second: Prisioner-attacking-1.png (1)_117
+  - first:
+      213: -1115759829678028434
+    second: Prisioner-attacking-1.png (1)_118
+  - first:
+      213: 3796272589771265134
+    second: Prisioner-attacking-1.png (1)_119
+  - first:
+      213: 8721615384856889788
+    second: Prisioner-attacking-1.png (1)_120
+  - first:
+      213: 6200246607575211124
+    second: Prisioner-attacking-1.png (1)_121
+  - first:
+      213: -7189340205448913427
+    second: Prisioner-attacking-1.png (1)_122
+  - first:
+      213: -1112846777765915811
+    second: Prisioner-attacking-1.png (1)_123
+  - first:
+      213: -2075324347447631814
+    second: Prisioner-attacking-1.png (1)_124
+  - first:
+      213: -8528695590913358738
+    second: Prisioner-attacking-1.png (1)_125
+  - first:
+      213: 6596350046593306424
+    second: Prisioner-attacking-1.png (1)_126
+  - first:
+      213: -2005234481707267983
+    second: Prisioner-attacking-1.png (1)_127
+  - first:
+      213: -6848540049317716734
+    second: Prisioner-attacking-1.png (1)_128
+  - first:
+      213: 5759508712391263816
+    second: Prisioner-attacking-1.png (1)_129
+  - first:
+      213: 8029681320446202786
+    second: Prisioner-attacking-1.png (1)_130
+  - first:
+      213: 6845266016274820196
+    second: Prisioner-attacking-1.png (1)_131
+  - first:
+      213: -8504000258066617355
+    second: Prisioner-attacking-1.png (1)_132
+  - first:
+      213: 1950059681436332080
+    second: Prisioner-attacking-1.png (1)_133
+  - first:
+      213: 4789034472721629308
+    second: Prisioner-attacking-1.png (1)_134
+  - first:
+      213: 5943547759130568204
+    second: Prisioner-attacking-1.png (1)_135
+  - first:
+      213: -425017267385511614
+    second: Prisioner-attacking-1.png (1)_136
+  - first:
+      213: 3209356897386315822
+    second: Prisioner-attacking-1.png (1)_137
+  - first:
+      213: -4993138216317071040
+    second: Prisioner-attacking-1.png (1)_138
+  - first:
+      213: 376254129255082947
+    second: Prisioner-attacking-1.png (1)_139
+  - first:
+      213: 5492908487572544321
+    second: Prisioner-attacking-1.png (1)_140
+  - first:
+      213: -1779008220414744454
+    second: Prisioner-attacking-1.png (1)_141
+  - first:
+      213: -3304644069537537911
+    second: Prisioner-attacking-1.png (1)_142
+  - first:
+      213: 6939828622204394785
+    second: Prisioner-attacking-1.png (1)_143
+  - first:
+      213: -5304471277064964777
+    second: Prisioner-attacking-1.png (1)_144
+  - first:
+      213: 3547637251738920105
+    second: Prisioner-attacking-1.png (1)_145
+  - first:
+      213: -7067726994037349357
+    second: Prisioner-attacking-1.png (1)_146
+  - first:
+      213: 348228903756020081
+    second: Prisioner-attacking-1.png (1)_147
+  - first:
+      213: 7153208941006510182
+    second: Prisioner-attacking-1.png (1)_148
+  - first:
+      213: 6157873554037288757
+    second: Prisioner-attacking-1.png (1)_149
+  - first:
+      213: -7269787317438531207
+    second: Prisioner-attacking-1.png (1)_150
+  - first:
+      213: -8892769310268997482
+    second: Prisioner-attacking-1.png (1)_151
+  - first:
+      213: -7211326609790904570
+    second: Prisioner-attacking-1.png (1)_152
+  - first:
+      213: -572374890015246649
+    second: Prisioner-attacking-1.png (1)_153
+  - first:
+      213: -7959751412856543718
+    second: Prisioner-attacking-1.png (1)_154
+  - first:
+      213: -7325141048586624069
+    second: Prisioner-attacking-1.png (1)_155
+  - first:
+      213: -5466491557300768558
+    second: Prisioner-attacking-1.png (1)_156
+  - first:
+      213: -4629189179065001236
+    second: Prisioner-attacking-1.png (1)_157
+  - first:
+      213: 3765321395046138418
+    second: Prisioner-attacking-1.png (1)_158
+  - first:
+      213: -6780788309777368156
+    second: Prisioner-attacking-1.png (1)_159
+  - first:
+      213: 761250178103919296
+    second: Prisioner-attacking-1.png (1)_160
+  - first:
+      213: -8552747502778211375
+    second: Prisioner-attacking-1.png (1)_161
+  - first:
+      213: 8630511681739659554
+    second: Prisioner-attacking-1.png (1)_162
+  - first:
+      213: 8095968394368972540
+    second: Prisioner-attacking-1.png (1)_163
+  - first:
+      213: -4020231056323938340
+    second: Prisioner-attacking-1.png (1)_164
+  - first:
+      213: -7211338545232089181
+    second: Prisioner-attacking-1.png (1)_165
+  - first:
+      213: -6250536238771438299
+    second: Prisioner-attacking-1.png (1)_166
+  - first:
+      213: 3487228408106483212
+    second: Prisioner-attacking-1.png (1)_167
+  - first:
+      213: 5029326628229996826
+    second: Prisioner-attacking-1.png (1)_168
+  - first:
+      213: -6214698696341685575
+    second: Prisioner-attacking-1.png (1)_169
+  - first:
+      213: -5705455446179831572
+    second: Prisioner-attacking-1.png (1)_170
+  - first:
+      213: 336585624492832689
+    second: Prisioner-attacking-1.png (1)_171
+  - first:
+      213: 2242384826465929161
+    second: Prisioner-attacking-1.png (1)_172
+  - first:
+      213: 2305475674603932137
+    second: Prisioner-attacking-1.png (1)_173
+  - first:
+      213: -4574149784598126945
+    second: Prisioner-attacking-1.png (1)_174
+  - first:
+      213: 8888909936954157008
+    second: Prisioner-attacking-1.png (1)_175
+  - first:
+      213: -4204809853434043817
+    second: Prisioner-attacking-1.png (1)_176
+  - first:
+      213: -6473959681419237220
+    second: Prisioner-attacking-1.png (1)_177
+  - first:
+      213: -4356158572051347972
+    second: Prisioner-attacking-1.png (1)_178
+  - first:
+      213: 838453536060173313
+    second: Prisioner-attacking-1.png (1)_179
+  - first:
+      213: 6038392552493687953
+    second: Prisioner-attacking-1.png (1)_180
+  - first:
+      213: 6605258880897151966
+    second: Prisioner-attacking-1.png (1)_181
+  - first:
+      213: -4969378001055842880
+    second: Prisioner-attacking-1.png (1)_182
+  - first:
+      213: 9123200066472499912
+    second: Prisioner-attacking-1.png (1)_183
+  - first:
+      213: 2164032629971343109
+    second: Prisioner-attacking-1.png (1)_184
+  - first:
+      213: -2001347581837410511
+    second: Prisioner-attacking-1.png (1)_185
+  - first:
+      213: 2989065070450528700
+    second: Prisioner-attacking-1.png (1)_186
+  - first:
+      213: -5402542757078974211
+    second: Prisioner-attacking-1.png (1)_187
+  - first:
+      213: -1968692539069416227
+    second: Prisioner-attacking-1.png (1)_188
+  - first:
+      213: -7315047565743744514
+    second: Prisioner-attacking-1.png (1)_189
+  - first:
+      213: 5014873695598309285
+    second: Prisioner-attacking-1.png (1)_190
+  - first:
+      213: -5439415485463062271
+    second: Prisioner-attacking-1.png (1)_191
+  - first:
+      213: -4830682393704304556
+    second: Prisioner-attacking-1.png (1)_192
+  - first:
+      213: 8986223128682205815
+    second: Prisioner-attacking-1.png (1)_193
+  - first:
+      213: -5097414258436179695
+    second: Prisioner-attacking-1.png (1)_194
+  - first:
+      213: -5860592694637617157
+    second: Prisioner-attacking-1.png (1)_195
+  - first:
+      213: 44496900780551282
+    second: Prisioner-attacking-1.png (1)_196
+  - first:
+      213: 5068289937879404293
+    second: Prisioner-attacking-1.png (1)_197
+  - first:
+      213: 7906539214838470258
+    second: Prisioner-attacking-1.png (1)_198
+  - first:
+      213: 8756258102297122494
+    second: Prisioner-attacking-1.png (1)_199
+  - first:
+      213: -8429857197108470631
+    second: Prisioner-attacking-1.png (1)_200
+  - first:
+      213: 8587034397899994724
+    second: Prisioner-attacking-1.png (1)_201
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Prisioner-attacking-1.png (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dacb17aea9a3f5d0800000000000000
+      internalID: -3029891556697191719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prisioner-attacking-1.png (1)_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 98
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000b709e31bbab7b0800000000000000
+      internalID: -5207644324912189440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prisioner-attacking-1.png (1)_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57dc4a3a94781050800000000000000
+      internalID: 5771491128227190618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prisioner-attacking-1.png (1)_3
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 87
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579c644a160224720800000000000000
+      internalID: 2828859119682111861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prisioner-attacking-1.png (1)_4
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 0
+        width: 83
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044b2bda8c19e0830800000000000000
+      internalID: 4039326206891570240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prisioner-attacking-1.png (1)_5
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 0
+        width: 72
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cde32ca6216b700800000000000000
+      internalID: 555651853761567887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

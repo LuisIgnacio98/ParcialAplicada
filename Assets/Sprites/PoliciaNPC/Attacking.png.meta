@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 23e0ab4df14d6714db0e51264ed02eeb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2887094106064258797
+    second: Police-attacking-1.png_0
+  - first:
+      213: -4387732085602593072
+    second: Police-attacking-1.png_1
+  - first:
+      213: 8048200610768251684
+    second: Police-attacking-1.png_2
+  - first:
+      213: -3040559621407381667
+    second: Police-attacking-1.png_3
+  - first:
+      213: -8011530267545992591
+    second: Police-attacking-1.png_4
+  - first:
+      213: -3177240088709452487
+    second: Police-attacking-1.png_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 785, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Police-attacking-1.png_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de685110bc4011820800000000000000
+      internalID: 2887094106064258797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police-attacking-1.png_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6d2145ae4ab13c0800000000000000
+      internalID: -4387732085602593072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police-attacking-1.png_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 69
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b6ce570d3f0bf60800000000000000
+      internalID: 8048200610768251684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police-attacking-1.png_3
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 98
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57ed974223cdc5d0800000000000000
+      internalID: -3040559621407381667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police-attacking-1.png_4
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 0
+        width: 53
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17281a72ba351d090800000000000000
+      internalID: -8011530267545992591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police-attacking-1.png_5
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 0
+        width: 69
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93da75a19fc28e3d0800000000000000
+      internalID: -3177240088709452487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -368, y: 59}
+      - {x: -415, y: 59}
+      - {x: -430, y: 46}
+      - {x: -430, y: -12}
+      - {x: -417, y: -64}
+      - {x: -353, y: -64}
+      - {x: -353, y: -15}
+      - {x: -362, y: 56}
+    - - {x: -223, y: 56}
+      - {x: -297, y: 56}
+      - {x: -297, y: -18}
+      - {x: -282, y: -64}
+      - {x: -192, y: -64}
+      - {x: -192, y: -40}
+      - {x: -214, y: 51}
+    - - {x: -90, y: 59}
+      - {x: -104, y: 31}
+      - {x: -104, y: -38}
+      - {x: -84, y: -64}
+      - {x: -54, y: -64}
+      - {x: -31, y: -25}
+      - {x: -31, y: 13}
+      - {x: -57, y: 59}
+    - - {x: 65, y: 63}
+      - {x: 54, y: 43}
+      - {x: 54, y: -31}
+      - {x: 63, y: -64}
+      - {x: 113, y: -64}
+      - {x: 156, y: 17}
+      - {x: 156, y: 58}
+      - {x: 152, y: 63}
+    - - {x: 256, y: -64}
+      - {x: 278, y: -64}
+      - {x: 278, y: -11}
+      - {x: 273, y: 57}
+      - {x: 267, y: 59}
+      - {x: 234, y: 59}
+      - {x: 221, y: 26}
+      - {x: 221, y: -64}
+      - {x: 238, y: -64}
+      - {x: 242, y: -57}
+      - {x: 245, y: -49}
+      - {x: 254, y: -62}
+    - - {x: 393, y: 64}
+      - {x: 372, y: 51}
+      - {x: 359, y: 37}
+      - {x: 359, y: -21}
+      - {x: 375, y: -60}
+      - {x: 392, y: -64}
+      - {x: 422, y: -64}
+      - {x: 430, y: -21}
+      - {x: 430, y: 45}
+      - {x: 420, y: 64}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

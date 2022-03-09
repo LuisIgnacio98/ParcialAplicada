@@ -1,0 +1,1 @@
+En esta carpeta estaran todas las interfaces de usuario que no sean parte del juego (Inicio, creditos, etc...)
